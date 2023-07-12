@@ -31,7 +31,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randika00&show_icons=true&locale=en" alt="randika00" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randika00&show_icons=true&locale=en&layout=compact" alt="randika00" /></p>
+<hr/>
+<div align='center'>
+  <a href='#'>
+    <img alt='Top Languages'
+         src='https://github-readme-stats.vercel.app/api/top-langs/?username=randika00&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F'
+         height='200'/>
+  </a>
+</div>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randika00&" alt="randika00" /></p>
 
