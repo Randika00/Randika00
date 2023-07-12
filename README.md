@@ -31,7 +31,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randika00&show_icons=true&locale=en&layout=compact" alt="randika00" /></p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randika00&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randika00&" alt="randika00" /></p>
 
