@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randika00&show_icons=true&locale=en" alt="randika00" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayasinghe0000&show_icons=true&locale=en&layout=compact" alt="jayasinghe0000" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randika00&" alt="randika00" /></p>
 
