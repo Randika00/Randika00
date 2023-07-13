@@ -34,7 +34,7 @@
  ![Randika Piyathissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Randika00&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Randika00&layout=compact)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randika00&" alt="randika00" /></p>
