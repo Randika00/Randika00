@@ -31,7 +31,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Randika00&show_icons=true&locale=en" alt="Randika00" /></p>
 
-<hr/>
+<hr/> 
 <div align='center'>
   <a href='#'>
     <img alt='Top Languages'
