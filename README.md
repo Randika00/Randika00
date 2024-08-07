@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **Java, PHP, Python, HTML, JavaScript, CSS, Angular,MERN Stack, Android Studio,Figma, Adobe XD**
+- 💬 Ask me about **Java, PHP, Python, HTML, JavaScript, CSS, Angular, MERN Stack, Android Studio,Figma, Web Scraping**
 
 - 📫 How to reach me **randika.madu111@gmail.com**
 
