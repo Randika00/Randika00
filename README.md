@@ -26,6 +26,7 @@
 <a href="https://twitter.com/randika002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="randika002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/randika-madhuwantha0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="randika-madhuwantha0" height="30" width="40" /></a>
 <a href="https://www.behance.net/randikapiyathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="randikapiyathi" height="30" width="40" /></a>
+ <a href="https://medium.com/@randikapiyathissa" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="randikapiyathissa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
