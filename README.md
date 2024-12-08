@@ -11,11 +11,11 @@
 
 <p align="left"> <a href="https://twitter.com/randika002" target="blank"><img src="https://img.shields.io/twitter/follow/randika002?logo=twitter&style=for-the-badge" alt="randika002" /></a> </p>
 
-- 🔭 I’m currently third year(3rd) undergraduate 🎓 **at Sri Lanka Institute of Information Technology - Malabe.**
+- 🔭 I’m a proud graduate of 🎓 **at Sri Lanka Institute of Information Technology - Malabe.**
 
 - 🌱 I’m currently learning **Software Engineering**
 
-- 💬 Ask me about **Java, PHP, Python, HTML, JavaScript, TypeScript, Angular, MERN Stack, Android Studio, Figma, Web Scraping**
+- 💬 Ask me about **Java, PHP, Python, HTML, JavaScript, TypeScript, Angular, MERN Stack, Cloud, AI and ML.**
 
 - 📫 How to reach me **randika.madu111@gmail.com**
 
