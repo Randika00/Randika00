@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1000&color=00D451&center=true&vCenter=true&width=950&height=60&lines=Software+Engineer;AI%2FML+Engineer+%7C+Generative+AI+Developer+%7C+Data+Engineering;Python+%7C+Java+%7C+TypeScript;Web+Scraping+%7C+Automation+%7C+ETL;React+%7C+Angular+%7C+Flutter" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3200&pause=1000&color=00D451&center=true&vCenter=true&width=950&height=60&lines=Software+Engineer;AI%2FML+Engineer+%7C+Generative+AI+Developer+%7C+Data+Engineering;Python+%7C+Java+%7C+TypeScript;Web+Scraping+%7C+Automation+%7C+ETL;React+%7C+Angular+%7C+Django" />
 </div>
 
 <div align="center">
