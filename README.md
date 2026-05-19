@@ -124,17 +124,17 @@ Software Engineer from Sri Lanka 🇱🇰 with 5+ years of hands-on industry exp
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavindu-kaveesha-7296101a4)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D451?style=for-the-badge&logo=About.me&logoColor=white)](https://kavindukaveesha.me)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Kavindu_725)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kavindukaveesha16)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kavindukaveesha16@gmail.com)
-
-**💼 Open for:** Freelance Projects • Full-time Opportunities • Technical Collaborations
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/randika-madhuwantha0)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/randika002)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@randikapiyathissa)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/randikapiyathi)
 
 </div>
 
 ---
+
+### 💼 Open for:
+**Full-Stack Development • AI/ML Projects • Data Engineering Solutions • Freelance Work • Open Source Collaboration**
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
