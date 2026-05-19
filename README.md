@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)]
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Kavindu%20Kaveesha&fontSize=70&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Randika%20Piyathissa&fontSize=70&fontAlign=50&fontAlignY=35&fontColor=ffffff&animation=twinkling"/>
 </div>
 
 <div align="center">
@@ -33,7 +33,7 @@ Undergraduate Full-Stack Software Engineer from **Sri Lanka** 🇱🇰 with **1+
 
 <div align="center">
   
-[![View All Projects](https://img.shields.io/badge/View_All_Projects-GitHub-00D451?style=for-the-badge&logo=github)](https://github.com/kavindukaveesha?tab=repositories)
+[![View All Projects](https://img.shields.io/badge/View_All_Projects-GitHub-00D451?style=for-the-badge&logo=github)](https://github.com/Randika00?tab=repositories)
 
 </div>
 
