@@ -89,6 +89,8 @@ Software Engineer from Sri Lanka 🇱🇰 with 5+ years of hands-on industry exp
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🤖 AI / ML / DL
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
@@ -96,6 +98,7 @@ Software Engineer from Sri Lanka 🇱🇰 with 5+ years of hands-on industry exp
 ![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)
 ![Generative AI](https://img.shields.io/badge/Generative_AI-00C853?style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 </div>
 
