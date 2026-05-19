@@ -76,7 +76,6 @@ Software Engineer from Sri Lanka 🇱🇰 with 5+ years of hands-on industry exp
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
-
 ### ☁️ Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -107,16 +106,16 @@ Software Engineer from Sri Lanka 🇱🇰 with 5+ years of hands-on industry exp
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavindukaveesha&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d451&text_color=c9d1d9&icon_color=00d451" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindukaveesha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d451&text_color=c9d1d9&langs_count=8" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Randika00&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d451&text_color=c9d1d9&icon_color=00d451" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randika00&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d451&text_color=c9d1d9&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavindukaveesha&bg_color=0d1117&color=c9d1d9&line=00d451&point=00d451&area_color=00d451&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Randika00&bg_color=0d1117&color=c9d1d9&line=00d451&point=00d451&area_color=00d451&area=true&hide_border=true" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kavindukaveesha&theme=discord&no-frame=true&column=6&margin-w=5&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Randika00&theme=discord&no-frame=true&column=6&margin-w=5&title=MultiLanguage,Repositories,Commits,PullRequest,Reviews,Issues"/>
 </div>
 
 
