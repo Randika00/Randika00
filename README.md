@@ -23,11 +23,12 @@
 
 ## 👋 About Me
 
-Undergraduate Full-Stack Software Engineer from **Sri Lanka** 🇱🇰 with **1+ year** of experience building web and mobile applications using React.js, Next.js, Angular.js, Flutter, Spring Boot, Node.js, and .NET. Proficient in Backend Development, RESTful API development, CI/CD pipelines, and Docker containerization. Skilled in Agile methodologies and delivering scalable solutions with measurable business impact.
+Software Engineer from Sri Lanka 🇱🇰 with 5+ years of hands-on industry experience in Software Engineering, Data Engineering, AI/ML, and enterprise automation solutions. Skilled in building scalable web applications, intelligent automation systems, ETL/data pipelines, and cloud-integrated platforms using Python, Java, TypeScript, React, Angular, and modern backend technologies. Experienced in Generative AI, Machine Learning, RESTful API integrations, CI/CD pipelines, Docker, Kubernetes, workflow orchestration, Agile methodologies, and TDD, with a strong focus on delivering high-performance and business-driven digital solutions.
 
-- 🎓 **BSc Software Engineering** @ NSBM Green University (2022-2026)
-- 🚀 **Specialization:** Enterprise Systems, Microservices, RBAC Systems
-- 🌱 **Learning:** AWS Solutions Architecture, Advanced AI/ML Integration
+- 🎓 **BSc in Information Technology (Specializing in Software Engineering)** @ Sri Lanka Institute of Information Technology (SLIIT) (2020-2024)
+- 💻 **Specialization:** Software Engineering, Enterprise Applications, Data Engineering & Automation
+- 🤖 **Focus Areas:** Generative AI, Machine Learning, ETL Pipelines, Cloud Technologies & Scalable System Design
+- 🌱 **Learning:** Advanced AI/ML Integration, Cloud Architecture, Kubernetes & Enterprise DevOps
 - 📫 **Reach me:** randikapiyathissa@gmail.com 
 
 
